@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: rgb(45, 126, 128);
+}
+
+h2{
+    color: rgb(133, 179, 72);
+    font-size: 80px;
+
+}
+
+
+h1 {
+font-size: 100px;
+    color: rgb(43, 129, 186);
+}
+
+p {
+    font-size: 40px;
+}
+
+img {
+    height: 520px;
+    width: 520px;
+}
+
+
